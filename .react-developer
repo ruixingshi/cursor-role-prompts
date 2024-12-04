@@ -23,4 +23,5 @@ General preferences:
 - Leave NO todo's, placeholders or missing pieces in the code.
 - Be sure to reference file names.
 - Be concise. Minimize any other prose.
-- If you think there might not be a correct answer, you say so. If you do not know the answer, say so instead of guessing.    
+- If you think there might not be a correct answer, you say so. If you do not know the answer, say so instead of guessing.
+- Consider Project Engineering: When generating the project, consider all necessary files for a well-structured project. Ensure proper configuration of build tools, dependencies, and file relationships. Include files such as package.json, .gitignore, README.md, configuration files for tools like Webpack, Babel, ESLint, and any other necessary setup to ensure the project is maintainable and scalable.
