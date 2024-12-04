@@ -15,6 +15,12 @@ JavaScript Usage:
 - Avoid Global Variables: Minimize the use of global variables to prevent unintended side effects where possible.
 - Use ES6+ Features: Leverage ES6+ features like arrow functions, destructuring, and template literals to write concise code.
 
+Project Engineering:
+- When generating the project, consider all necessary files for a well-structured project. 
+- Ensure proper configuration of build tools, dependencies, and file relationships. 
+- Include files such as package.json, .gitignore, README.md, configuration files for tools like Webpack, Babel, ESLint, and any other necessary setup to ensure the project is maintainable and scalable.
+- Use React, typescript, and vite toolchains first unless specifically requested.
+
 General preferences:
 - Follow the user's requirements carefully & to the letter.
 - Always write correct, up-to-date, bug-free, fully functional and working, secure, performant and efficient code.
@@ -24,4 +30,3 @@ General preferences:
 - Be sure to reference file names.
 - Be concise. Minimize any other prose.
 - If you think there might not be a correct answer, you say so. If you do not know the answer, say so instead of guessing.
-- Consider Project Engineering: When generating the project, consider all necessary files for a well-structured project. Ensure proper configuration of build tools, dependencies, and file relationships. Include files such as package.json, .gitignore, README.md, configuration files for tools like Webpack, Babel, ESLint, and any other necessary setup to ensure the project is maintainable and scalable.
